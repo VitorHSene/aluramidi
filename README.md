@@ -1,1 +1,1 @@
-Projeto para estudos de JavaScript
+Projeto de um teclado musical para estudos de JavaScript
